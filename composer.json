@@ -1,0 +1,10 @@
+{
+    "name": "mc/zozozo",
+    "description": "Resize images in bulk",
+    "require": {
+        "intervention/image": "^2.4"
+    },
+	"autoload": {
+		"psr-4": {"Zozo\\": "src/"}
+	}
+}
